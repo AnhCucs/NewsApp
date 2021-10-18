@@ -1,0 +1,2 @@
+# NewsApp
+News App   ================= Simple news app android using MVVM, fetch News from Newsapi, insert, delete , search news :))    News API key ------------ News App uses the [News API](https://newsapi.org/docs/get-started) to load news.   Libraries Used : -------------- * LiveData * Room * Kotlin Coroutines * Glide * Navigation Component * ViewModel * Lifecycles * Retrofit * Swipe Item Touch * WebView
