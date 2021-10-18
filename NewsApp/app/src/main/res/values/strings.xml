@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news">News</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="search_news">Search News</string>
+    <string name="fab_icon">fab_icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="type_any_news">Type any news</string>
+    <string name="news_title">News</string>
+    <string name="article_new">Article News</string>
+</resources>
